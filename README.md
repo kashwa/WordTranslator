@@ -1,4 +1,4 @@
-# wordtranslator
+# Word Translator
 
 > Word translator using yandex API.
 
